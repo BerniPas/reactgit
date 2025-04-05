@@ -12,6 +12,10 @@ function App() {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
+            <table>
+              <td></td>
+            </table>
+            <span>😀</span>
             <h1>Hoy es sabado</h1>
             Edit <code>src/App.js</code> and save to reload.
           </p>
@@ -21,7 +25,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React with EducaciónIT
+            Learn React with EducaciónIT los Sábados
           </a>
         </header>
       </div>
